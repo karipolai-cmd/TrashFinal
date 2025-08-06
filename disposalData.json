@@ -1,0 +1,38 @@
+{
+  "Paper": {
+    "instruction": "Recycle in the paper bin.",
+    "fact": "Recycling one ton of paper saves 17 trees."
+  },
+  "Cardboard": {
+    "instruction": "Flatten and place in the cardboard recycling bin.",
+    "fact": "Cardboard can be recycled 5–7 times."
+  },
+  "Organic Mix": {
+    "instruction": "Compost it or put in organic waste bin.",
+    "fact": "Organic waste turns into nutrient-rich compost."
+  },
+  "Peels": {
+    "instruction": "Great for composting! Avoid plastic contamination.",
+    "fact": "Banana peels decompose in 2–5 weeks."
+  },
+  "Cores": {
+    "instruction": "Put them in the compost bin.",
+    "fact": "Apple cores are 100% compostable."
+  },
+  "Plastic": {
+    "instruction": "Put in plastic recycling. Clean first.",
+    "fact": "Plastic can take up to 450 years to decompose."
+  },
+  "Metal": {
+    "instruction": "Recycle in the metal bin.",
+    "fact": "Aluminum cans are 100% recyclable indefinitely."
+  },
+  "Rubber": {
+    "instruction": "Drop off at a rubber recycling facility.",
+    "fact": "Old tires are often turned into playground flooring."
+  },
+  "Mold": {
+    "instruction": "Dispose of moldy items in sealed garbage.",
+    "fact": "Mold can grow in just 24–48 hours in moist environments."
+  }
+}
