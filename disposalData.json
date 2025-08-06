@@ -7,7 +7,7 @@
     "instruction": "Flatten cardboard boxes and remove any tape, plastic, or food residue before placing them in your recycling bin. Clean, dry cardboard is ideal for recycling, while greasy or wet cardboard (like pizza boxes) should be composted if possible. Only throw it in the trash if it’s too contaminated to recycle or compost.",
     "fact": "Recycling one ton of cardboard saves over 9 cubic yards of landfill space and over 46 gallons of oil! Plus, cardboard is one of the most commonly recycled materials in the world—yet tons of it still end up in landfills every year."
   },
-  "Organic Mix": {
+  "Organic mix": {
     "instruction": "Compost fruit and veggie scraps, coffee grounds, eggshells, yard clippings, and even paper towels in a home or community compost bin. Avoid adding meat, dairy, or oily foods unless you use a special composting system. If composting isn’t available, dispose of organic waste in the trash, but note it will decompose slowly and emit greenhouse gases in landfills.",
     "fact": "Organic waste makes up over 30% of what we throw away, yet it's also the easiest to turn into something useful—compost! Properly composted organic trash becomes nutrient-rich soil instead of releasing methane in landfills."
   },
@@ -26,6 +26,10 @@
   "Metal": {
     "instruction": "Rinse food or drink cans and place them in your recycling bin. Larger metal items (like appliances or tools) should be taken to scrap metal or recycling centers. Avoid tossing metal in the trash—it’s too valuable and takes centuries to decompose.",
     "fact": "Metals like aluminum and steel are 100% recyclable and can be reused infinitely without losing quality—recycling just one aluminum can saves enough energy to power a TV for 3 hours!"
+  },
+  "Glass": {
+    "instruction": "Rinse and recycle glass bottles and jars in designated bins. Don’t recycle broken glass, mirrors, or ceramics—they require different handling and can contaminate recycling. Wrap sharp pieces in paper and dispose of them in the trash if recycling isn’t an option.",
+    "fact": "Glass is infinitely recyclable—it can be melted down and reused over and over without losing quality. Some glass bottles in circulation today could contain bits from centuries ago!"
   },
   "Rubber": {
     "instruction": "To properly dispose of rubber, recycle it at local centers or auto shops that accept items like tires, mats, or hoses. If recycling isn’t available, try reusing it in creative ways like garden planters or DIY projects. As a last resort, rubber can go in the trash if it’s non-toxic, but never burn or dump it, as it releases harmful chemicals and takes decades to decompose.",
