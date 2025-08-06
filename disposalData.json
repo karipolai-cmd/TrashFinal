@@ -1,38 +1,38 @@
 {
   "Paper": {
-    "instruction": "Recycle in the paper bin.",
-    "fact": "Recycling one ton of paper saves 17 trees."
+    "instruction": "Recycle clean paper like office sheets, newspapers, and boxes through your local recycling bin. Avoid recycling greasy or food-stained paper (like used napkins or pizza boxes)—compost those instead if possible. Always flatten cardboard and remove plastic or tape. If recycling or composting isn’t available, paper can be trashed, but that’s the least eco-friendly option.",
+    "fact": "Paper can be recycled up to 5–7 times before the fibers get too short to reuse. But if it ends up in a landfill, it can still take months to decompose—and worse, it may release methane, a potent greenhouse gas, if it breaks down without oxygen!"
   },
   "Cardboard": {
-    "instruction": "Flatten and place in the cardboard recycling bin.",
-    "fact": "Cardboard can be recycled 5–7 times."
+    "instruction": "Flatten cardboard boxes and remove any tape, plastic, or food residue before placing them in your recycling bin. Clean, dry cardboard is ideal for recycling, while greasy or wet cardboard (like pizza boxes) should be composted if possible. Only throw it in the trash if it’s too contaminated to recycle or compost.",
+    "fact": "Recycling one ton of cardboard saves over 9 cubic yards of landfill space and over 46 gallons of oil! Plus, cardboard is one of the most commonly recycled materials in the world—yet tons of it still end up in landfills every year."
   },
   "Organic Mix": {
-    "instruction": "Compost it or put in organic waste bin.",
-    "fact": "Organic waste turns into nutrient-rich compost."
+    "instruction": "Compost fruit and veggie scraps, coffee grounds, eggshells, yard clippings, and even paper towels in a home or community compost bin. Avoid adding meat, dairy, or oily foods unless you use a special composting system. If composting isn’t available, dispose of organic waste in the trash, but note it will decompose slowly and emit greenhouse gases in landfills.",
+    "fact": "Organic waste makes up over 30% of what we throw away, yet it's also the easiest to turn into something useful—compost! Properly composted organic trash becomes nutrient-rich soil instead of releasing methane in landfills."
   },
   "Peels": {
-    "instruction": "Great for composting! Avoid plastic contamination.",
-    "fact": "Banana peels decompose in 2–5 weeks."
+    "instruction": "Always compost fruit and vegetable peels—they break down quickly and enrich the soil. If composting isn’t available, toss them in the trash, but avoid this when possible to reduce methane emissions and landfill waste.",
+    "fact": "Fruit and veggie peels are packed with nutrients—some are even more nutritious than the fruit itself! But when tossed in landfills, they release methane as they rot without oxygen."
   },
   "Cores": {
-    "instruction": "Put them in the compost bin.",
-    "fact": "Apple cores are 100% compostable."
+    "instruction": "Compost fruit cores along with other kitchen scraps—they decompose easily and add nutrients to the soil. If you can’t compost, throw them in the trash, but remember they release methane in landfills as they rot.",
+    "fact": "Fruit cores may seem like pure waste, but they’re fully compostable and sometimes even edible—apple seeds contain tiny amounts of cyanide, but you'd need to eat a lot to be harmed!"
   },
   "Plastic": {
-    "instruction": "Put in plastic recycling. Clean first.",
-    "fact": "Plastic can take up to 450 years to decompose."
+    "instruction": "Rinse and recycle clean plastics marked with recycling symbols (usually #1 and #2, like bottles and containers). Avoid recycling dirty or non-recyclable plastics like plastic bags, wrappers, and styrofoam—those should go in the trash unless there's a special drop-off. Reduce use whenever possible, as even recyclable plastic has limits.",
+    "fact": "Every piece of plastic ever made still exists in some form today! Most plastics take hundreds of years to decompose—and some types never truly break down, just becoming microplastics."
   },
   "Metal": {
-    "instruction": "Recycle in the metal bin.",
-    "fact": "Aluminum cans are 100% recyclable indefinitely."
+    "instruction": "Rinse food or drink cans and place them in your recycling bin. Larger metal items (like appliances or tools) should be taken to scrap metal or recycling centers. Avoid tossing metal in the trash—it’s too valuable and takes centuries to decompose.",
+    "fact": "Metals like aluminum and steel are 100% recyclable and can be reused infinitely without losing quality—recycling just one aluminum can saves enough energy to power a TV for 3 hours!"
   },
   "Rubber": {
-    "instruction": "To dispose of rubber properly, first check if it can be recycled—many recycling centers and auto shops accept items like tires, mats, or hoses. If recycling isn’t available, consider repurposing old rubber for garden use, DIY projects, or crafts. As a last resort, non-toxic rubber can go in the trash, but avoid this when possible since rubber takes decades to decompose. Never burn rubber, as it releases toxic fumes, and avoid dumping it in nature.",
+    "instruction": "To properly dispose of rubber, recycle it at local centers or auto shops that accept items like tires, mats, or hoses. If recycling isn’t available, try reusing it in creative ways like garden planters or DIY projects. As a last resort, rubber can go in the trash if it’s non-toxic, but never burn or dump it, as it releases harmful chemicals and takes decades to decompose.",
     "fact": "Rubber, especially natural rubber, comes from the sap of rubber trees — but if you throw it away, it can take over 50 years to decompose in landfills! That’s because rubber is incredibly durable and resistant to natural breakdown, which is great for making tires… but not so great for the environment."
   },
   "Mold": {
-    "instruction": "Dispose of moldy items in sealed garbage.",
-    "fact": "Mold can grow in just 24–48 hours in moist environments."
+    "instruction": "If food is moldy, don’t compost it at home—it can spread bad spores and attract pests. Instead, dispose of moldy food in the trash or use municipal composting if allowed. For moldy containers, clean and recycle if possible, or trash them if too contaminated..",
+    "fact": "Some molds are harmful, but others are useful—penicillin, a life-saving antibiotic, was discovered from mold growing on bread!"
   }
 }
