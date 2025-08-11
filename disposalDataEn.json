@@ -1,46 +1,57 @@
 {
   "Rubber": {
-    "instruction": "Take rubber items like tires, mats, or hoses to specialized recycling centers or auto shops that accept them, or repurpose them creatively for projects such as planters, mats, or playground equipment. Avoid burning rubber as it releases toxic chemicals.",
-    "fact": "Natural rubber is made from the sap of rubber trees and is extremely durable, which is why it can take more than 50 years to break down in a landfill. This strength makes it useful for products like tires, but challenging to dispose of sustainably."
+    "label": "Rubber",
+    "instruction": "Take rubber items, such as tires, hoses, or mats, to specialized recycling facilities or auto shops that accept them. If recycling is not available, consider repurposing rubber into useful objects like garden planters, floor mats, or furniture. Avoid burning rubber, as it releases toxic chemicals, and never dispose of it in nature.",
+    "fact": "Natural rubber is made from the sap of rubber trees and is extremely durable, taking over 50 years to decompose in landfills. This resilience makes it valuable for manufacturing but problematic as waste."
   },
   "Paper": {
-    "instruction": "Recycle clean and dry paper products such as office paper, newspapers, and magazines in your curbside recycling bin. Avoid recycling greasy or food-stained paper; instead, compost it if possible.",
-    "fact": "Paper fibers can be recycled up to 7 times before they become too short to make new paper. Recycling paper saves trees, water, and energy, and helps reduce landfill waste."
+    "label": "Paper",
+    "instruction": "Recycle clean and dry paper together with other paper products, such as office sheets, newspapers, and magazines. Remove any plastic, staples, or other contaminants before recycling. Avoid recycling greasy or heavily soiled paper; instead, compost it if possible.",
+    "fact": "Paper can be recycled up to 7 times before the fibers become too short to be reused, making it one of the most recyclable materials if kept clean."
   },
   "Cardboard": {
-    "instruction": "Flatten cardboard boxes to save space, remove any tape or plastic, and recycle them with other clean, dry cardboard. Compost greasy cardboard, such as pizza boxes, if local facilities accept it.",
-    "fact": "Recycling one ton of cardboard saves more than 9 cubic yards of landfill space and over 46 gallons of oil. Cardboard is one of the most widely recycled materials in the world."
+    "label": "Cardboard",
+    "instruction": "Flatten cardboard boxes, remove tape, labels, and any plastic wrapping, and recycle only clean and dry pieces. If cardboard is greasy or wet, compost it if possible instead of sending it to landfill.",
+    "fact": "Recycling one ton of cardboard saves over 9 cubic yards of landfill space and more than 46 gallons of oil, making it one of the most impactful items to recycle."
   },
   "OrganicWaste": {
-    "instruction": "Compost fruit and vegetable scraps, coffee grounds, eggshells, yard waste, and other natural materials at home or at a community composting site. Avoid adding meat, dairy, or oily foods to a standard compost pile.",
-    "fact": "Organic waste makes up over 30% of household trash, yet when composted properly, it can be turned into nutrient-rich soil that supports plant growth and reduces landfill methane emissions."
+    "label": "Organic Waste",
+    "instruction": "Compost fruit and vegetable scraps, coffee grounds, tea bags, eggshells, leaves, and grass clippings in a home or community composting system. Avoid adding meat, dairy, or oily foods unless using a specialized composting method.",
+    "fact": "Organic waste makes up more than 30% of household trash, yet when composted, it becomes nutrient-rich soil instead of releasing methane gas in landfills."
   },
   "Peels": {
-    "instruction": "Add fruit and vegetable peels to your compost bin to create nutrient-rich soil. If composting is not possible, dispose of them in the trash, but avoid this when you can.",
-    "fact": "Peels from fruits and vegetables are rich in nutrients—sometimes even more than the flesh—and they decompose quickly in compost. In landfills, however, they produce methane as they rot without oxygen."
+    "label": "Peels",
+    "instruction": "Compost fruit and vegetable peels, such as banana, orange, potato, and carrot skins, to enrich soil and reduce food waste. Ensure peels are free from pesticides if using compost for edible crops.",
+    "fact": "Many fruit and vegetable peels are more nutrient-rich than the flesh, yet when thrown into landfills, they produce methane as they decompose without oxygen."
   },
   "Cores": {
-    "instruction": "Place fruit cores, such as apple or pear cores, into your compost with other kitchen scraps to enrich the soil.",
-    "fact": "Fruit cores are completely biodegradable and add valuable nutrients to compost, making them an easy way to reduce food waste."
+    "label": "Cores",
+    "instruction": "Place fruit cores, such as from apples, pears, or pineapples, into compost bins with other kitchen scraps. They break down easily and improve compost quality.",
+    "fact": "Fruit cores are fully compostable and provide organic matter and nutrients to soil, making them ideal for home composting."
   },
   "Plastic": {
-    "instruction": "Rinse and recycle plastics marked with recycling codes #1 and #2 through your local recycling program. Reduce use of single-use plastics, and avoid placing plastic bags, wrappers, and other non-recyclables in the recycling bin.",
-    "fact": "Most plastics take hundreds of years to decompose and may break into tiny microplastics that pollute waterways, harm wildlife, and enter the food chain."
+    "label": "Plastic",
+    "instruction": "Recycle clean plastics with recycling symbols #1 (PET) and #2 (HDPE) through curbside or drop-off programs. Avoid recycling plastic bags, wrappers, or styrofoam unless a specialized facility accepts them. Reduce plastic use by choosing reusable alternatives.",
+    "fact": "Most plastics take hundreds of years to decompose, and many break down into microplastics that persist in the environment indefinitely."
   },
   "Metal": {
-    "instruction": "Rinse food and drink cans before recycling them, and take larger metal items like appliances, pipes, or tools to a scrap metal yard for proper processing.",
-    "fact": "Metals such as aluminum and steel are 100% recyclable and can be reused indefinitely without losing quality. Recycling just one aluminum can saves enough energy to power a television for 3 hours."
+    "label": "Metal",
+    "instruction": "Rinse aluminum and steel cans before placing them in the recycling bin. Take larger items, such as appliances or scrap metal, to a scrap yard or recycling center. Avoid disposing of metal in general waste, as it is highly recyclable.",
+    "fact": "Metals like aluminum can be recycled infinitely without losing quality, and recycling a single aluminum can saves enough energy to run a television for three hours."
   },
   "Mold": {
-    "instruction": "Dispose of moldy food in the trash or in municipal compost facilities that accept it. Avoid adding moldy food to small home compost piles, as it may spread unwanted spores.",
-    "fact": "While many molds are harmful, some are beneficial—penicillin, a life-saving antibiotic, was famously discovered from mold growing on bread."
+    "label": "Mold",
+    "instruction": "Dispose of moldy food in the trash or, if available, in a municipal composting program that can handle it safely. Avoid adding moldy food to home compost to prevent unwanted spores and odors.",
+    "fact": "Some molds are harmful, but others have led to major scientific breakthroughs—penicillin, a life-saving antibiotic, was discovered from mold growing on bread."
   },
   "Glass": {
-    "instruction": "Rinse glass bottles and jars before placing them in your recycling bin. Do not put broken glass, mirrors, or ceramics into regular glass recycling; take them to a facility that accepts them or wrap and place in the trash if no option is available.",
-    "fact": "Glass can be recycled endlessly without losing quality or purity. Some glass bottles today may contain recycled material from centuries-old glass."
+    "label": "Glass",
+    "instruction": "Rinse glass bottles and jars before recycling them in designated bins. Do not place broken glass, mirrors, or ceramics in standard recycling, as they require special processing. Wrap sharp glass before disposal to prevent injuries.",
+    "fact": "Glass can be recycled endlessly without losing quality, and recycled glass is often turned into new bottles, jars, and construction materials."
   },
   "Wood": {
-    "instruction": "Reuse clean wood for building, crafts, or furniture projects, or take it to a recycling center that accepts wood. Avoid sending untreated wood to landfills, and compost small untreated wood pieces or chip them for mulch.",
-    "fact": "Wood is biodegradable and can be composted or chipped into mulch, which helps reduce landfill waste and returns nutrients to the soil."
+    "label": "Wood",
+    "instruction": "Reuse clean, untreated wood for DIY projects, furniture repair, or crafts. If disposal is necessary, take it to a wood recycling center or have it chipped into mulch. Avoid burning treated or painted wood, as it may release toxic fumes.",
+    "fact": "Wood is biodegradable and can be composted or processed into mulch, which helps reduce landfill waste and returns nutrients to the soil."
   }
 }
