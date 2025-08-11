@@ -1,0 +1,46 @@
+{
+  "Rubber": {
+    "instruction": "Take rubber items like tires, mats, or hoses to specialized recycling centers or auto shops that accept them, or repurpose them creatively for projects such as planters, mats, or playground equipment. Avoid burning rubber as it releases toxic chemicals.",
+    "fact": "Natural rubber is made from the sap of rubber trees and is extremely durable, which is why it can take more than 50 years to break down in a landfill. This strength makes it useful for products like tires, but challenging to dispose of sustainably."
+  },
+  "Paper": {
+    "instruction": "Recycle clean and dry paper products such as office paper, newspapers, and magazines in your curbside recycling bin. Avoid recycling greasy or food-stained paper; instead, compost it if possible.",
+    "fact": "Paper fibers can be recycled up to 7 times before they become too short to make new paper. Recycling paper saves trees, water, and energy, and helps reduce landfill waste."
+  },
+  "Cardboard": {
+    "instruction": "Flatten cardboard boxes to save space, remove any tape or plastic, and recycle them with other clean, dry cardboard. Compost greasy cardboard, such as pizza boxes, if local facilities accept it.",
+    "fact": "Recycling one ton of cardboard saves more than 9 cubic yards of landfill space and over 46 gallons of oil. Cardboard is one of the most widely recycled materials in the world."
+  },
+  "OrganicWaste": {
+    "instruction": "Compost fruit and vegetable scraps, coffee grounds, eggshells, yard waste, and other natural materials at home or at a community composting site. Avoid adding meat, dairy, or oily foods to a standard compost pile.",
+    "fact": "Organic waste makes up over 30% of household trash, yet when composted properly, it can be turned into nutrient-rich soil that supports plant growth and reduces landfill methane emissions."
+  },
+  "Peels": {
+    "instruction": "Add fruit and vegetable peels to your compost bin to create nutrient-rich soil. If composting is not possible, dispose of them in the trash, but avoid this when you can.",
+    "fact": "Peels from fruits and vegetables are rich in nutrients—sometimes even more than the flesh—and they decompose quickly in compost. In landfills, however, they produce methane as they rot without oxygen."
+  },
+  "Cores": {
+    "instruction": "Place fruit cores, such as apple or pear cores, into your compost with other kitchen scraps to enrich the soil.",
+    "fact": "Fruit cores are completely biodegradable and add valuable nutrients to compost, making them an easy way to reduce food waste."
+  },
+  "Plastic": {
+    "instruction": "Rinse and recycle plastics marked with recycling codes #1 and #2 through your local recycling program. Reduce use of single-use plastics, and avoid placing plastic bags, wrappers, and other non-recyclables in the recycling bin.",
+    "fact": "Most plastics take hundreds of years to decompose and may break into tiny microplastics that pollute waterways, harm wildlife, and enter the food chain."
+  },
+  "Metal": {
+    "instruction": "Rinse food and drink cans before recycling them, and take larger metal items like appliances, pipes, or tools to a scrap metal yard for proper processing.",
+    "fact": "Metals such as aluminum and steel are 100% recyclable and can be reused indefinitely without losing quality. Recycling just one aluminum can saves enough energy to power a television for 3 hours."
+  },
+  "Mold": {
+    "instruction": "Dispose of moldy food in the trash or in municipal compost facilities that accept it. Avoid adding moldy food to small home compost piles, as it may spread unwanted spores.",
+    "fact": "While many molds are harmful, some are beneficial—penicillin, a life-saving antibiotic, was famously discovered from mold growing on bread."
+  },
+  "Glass": {
+    "instruction": "Rinse glass bottles and jars before placing them in your recycling bin. Do not put broken glass, mirrors, or ceramics into regular glass recycling; take them to a facility that accepts them or wrap and place in the trash if no option is available.",
+    "fact": "Glass can be recycled endlessly without losing quality or purity. Some glass bottles today may contain recycled material from centuries-old glass."
+  },
+  "Wood": {
+    "instruction": "Reuse clean wood for building, crafts, or furniture projects, or take it to a recycling center that accepts wood. Avoid sending untreated wood to landfills, and compost small untreated wood pieces or chip them for mulch.",
+    "fact": "Wood is biodegradable and can be composted or chipped into mulch, which helps reduce landfill waste and returns nutrients to the soil."
+  }
+}
